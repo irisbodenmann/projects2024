@@ -1,0 +1,8 @@
+abc/
+├── abc/           # Main project directory
+│   ├── __init__.py
+├── README.md      # Project description
+├── setup.py       # Script for packaging the project
+├── tests/         # Tests directory (optional)
+└── requirements.txt  # List of dependencies
+
